@@ -1,7 +1,7 @@
 # GAIH Student Repo Example
 ![](img/logo.png)
 
-**Course Date:** 03.11.1997  
+**Course Date:** DD.MM.YYYY  
 **Name:** Fatma  
 **Surname:** Katı  
 **Email:** fatmaakatii@gmail.com  
